@@ -1,0 +1,6 @@
+{
+  "name": "Kịch Bản Video Ngắn Công Nghệ (30s-60s)",
+  "description": "Studio xây dựng kịch bản video ngắn 30-60s giới thiệu sản phẩm công nghệ với bộ đôi nhân vật nhí tương tác cao, cuốn hút từ giây đầu tiên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
